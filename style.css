@@ -25,3 +25,14 @@ body {
     margin-bottom: 10px;
     border: 1px grey solid;
 }
+
+.section{
+    background: white;
+    padding: 20px 0;
+    height: 200px;
+}
+.section-b {
+    background: rgb(125, 125, 125);
+    color: white;
+    height: 200px;
+}
